@@ -216,6 +216,7 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">チェンライ空港に到着</span></h2>
+<a href="20241122_001.png" target="_blank"><img src="20241122_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20241122_042.JPG" target="_blank"><img src="20241122_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241122_043.JPG" target="_blank"><img src="20241122_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241122_044.JPG" target="_blank"><img src="20241122_044.JPG" alt="サンプル画像" width="900" /></a>
