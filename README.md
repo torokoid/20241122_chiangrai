@@ -132,55 +132,71 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">市内の道路環境、一般道とフリーウェイが並走してます！<br>一般道側のCIVICにはNoがついてませんね〜</span></h2>
-<a href="20241121_001.JPG" target="_blank"><img src="20241121_001.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">道路の上にはモノレール（宇都宮のLRT?）<br>これができて市内の渋滞が緩和されたらしいです</span></h2>
-<a href="20241121_002.JPG" target="_blank"><img src="20241121_002.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">市内の至る所にある仏壇の前を、ノーヘルのバイクが走り抜けます〜</span></h2>
-<a href="20241121_003.JPG" target="_blank"><img src="20241121_003.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">移動したのは市内のショッピングモール〜</span></h2>
-<a href="20241121_004.JPG" target="_blank"><img src="20241121_004.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">ショッピングモール4階食堂からの、バンコク市内の眺め〜</span></h2>
-<a href="20241121_005.JPG" target="_blank"><img src="20241121_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241121_006.JPG" target="_blank"><img src="20241121_006.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">ショッピングモールの中は多国籍、多宗教です〜</span></h2>
-<a href="20241121_007.JPG" target="_blank"><img src="20241121_007.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">王室系、仏教系の施設はお金のかかり方が日本とは違うレベルっぽいですね〜</span></h2>
-<a href="20241121_008.JPG" target="_blank"><img src="20241121_008.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">初日のお昼ご飯はチャーハン、69バーツ ≒ ¥330-</span></h2>
-<a href="20241121_009.JPG" target="_blank"><img src="20241121_009.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">デザートもボリュームありますね〜</span></h2>
-<a href="20241121_010.JPG" target="_blank"><img src="20241121_010.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">日本のブランドは全部ありました</span></h2>
-<a href="20241121_011.JPG" target="_blank"><img src="20241121_011.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">暑い中、ショッピングモールの入り口でスケボーするお兄さん</span></h2>
-<a href="20241121_012.JPG" target="_blank"><img src="20241121_012.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">タイの信号はカウントダウンで青になるタイミングを知らせます</span></h2>
-<a href="20241121_013.JPG" target="_blank"><img src="20241121_013.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">市内にある産地直送の農産物売り場、スーパーの半額以下<br>タイの犬は全部放し飼いですが、狂犬病持ってる奴がいるので要注意！</span></h2>
-<a href="20241121_014.JPG" target="_blank"><img src="20241121_014.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">11月ですが真夏の陽射しで、市内の川には見事なリフレクション！</span></h2>
-<a href="20241121_015.JPG" target="_blank"><img src="20241121_015.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">これも日本では見なくなった、ボンネット開放冷却</span></h2>
-<a href="20241121_016.JPG" target="_blank"><img src="20241121_016.JPG" alt="サンプル画像" width="900" /></a>
-
-<br><br>
-
-<h2><span class="yellow">今回行ったショッピングモールは宇都宮ベルモールの1.5倍の長さですが、<br>売り場フロアがベルモール2階に対して4階分、<br>内部の通路がやや迷路チックで初めて行くと迷子になりそうでした。<br>画像のクリックでGoogleMapsに飛びます</span></h2>
-<a href="https://www.google.com/maps/place/シーコンスクエア/@13.69434,100.6457252,884m/data=!3m2!1e3!4b1!4m6!3m5!1s0x311d5fd3fd8e82df:0xecc3d0841afbf60c!8m2!3d13.6943348!4d100.6483001!16s%2Fm%2F026kr5q!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241121_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20241122_001.JPG" target="_blank"><img src="20241122_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_002.JPG" target="_blank"><img src="20241122_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_003.JPG" target="_blank"><img src="20241122_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_004.JPG" target="_blank"><img src="20241122_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_005.JPG" target="_blank"><img src="20241122_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_006.JPG" target="_blank"><img src="20241122_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_007.JPG" target="_blank"><img src="20241122_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_008.JPG" target="_blank"><img src="20241122_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_009.JPG" target="_blank"><img src="20241122_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_010.JPG" target="_blank"><img src="20241122_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_011.JPG" target="_blank"><img src="20241122_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_012.JPG" target="_blank"><img src="20241122_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_013.JPG" target="_blank"><img src="20241122_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_014.JPG" target="_blank"><img src="20241122_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_015.JPG" target="_blank"><img src="20241122_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_016.JPG" target="_blank"><img src="20241122_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_017.JPG" target="_blank"><img src="20241122_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_018.JPG" target="_blank"><img src="20241122_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_019.JPG" target="_blank"><img src="20241122_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_020.JPG" target="_blank"><img src="20241122_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_021.JPG" target="_blank"><img src="20241122_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_022.JPG" target="_blank"><img src="20241122_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_023.JPG" target="_blank"><img src="20241122_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_024.JPG" target="_blank"><img src="20241122_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_025.JPG" target="_blank"><img src="20241122_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_026.JPG" target="_blank"><img src="20241122_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_027.JPG" target="_blank"><img src="20241122_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_028.JPG" target="_blank"><img src="20241122_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_029.JPG" target="_blank"><img src="20241122_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_030.JPG" target="_blank"><img src="20241122_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_031.JPG" target="_blank"><img src="20241122_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_032.JPG" target="_blank"><img src="20241122_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_033.JPG" target="_blank"><img src="20241122_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_034.JPG" target="_blank"><img src="20241122_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_035.JPG" target="_blank"><img src="20241122_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_036.JPG" target="_blank"><img src="20241122_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_037.JPG" target="_blank"><img src="20241122_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_038.JPG" target="_blank"><img src="20241122_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_039.JPG" target="_blank"><img src="20241122_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_040.JPG" target="_blank"><img src="20241122_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_041.JPG" target="_blank"><img src="20241122_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_042.JPG" target="_blank"><img src="20241122_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_043.JPG" target="_blank"><img src="20241122_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_044.JPG" target="_blank"><img src="20241122_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_045.JPG" target="_blank"><img src="20241122_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_046.JPG" target="_blank"><img src="20241122_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_047.JPG" target="_blank"><img src="20241122_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_048.JPG" target="_blank"><img src="20241122_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_049.JPG" target="_blank"><img src="20241122_049.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_050.JPG" target="_blank"><img src="20241122_050.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_051.JPG" target="_blank"><img src="20241122_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_052.JPG" target="_blank"><img src="20241122_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_053.JPG" target="_blank"><img src="20241122_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_054.JPG" target="_blank"><img src="20241122_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_055.JPG" target="_blank"><img src="20241122_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_056.JPG" target="_blank"><img src="20241122_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_057.JPG" target="_blank"><img src="20241122_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_058.JPG" target="_blank"><img src="20241122_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_059.JPG" target="_blank"><img src="20241122_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_060.JPG" target="_blank"><img src="20241122_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_061.JPG" target="_blank"><img src="20241122_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_062.JPG" target="_blank"><img src="20241122_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_063.JPG" target="_blank"><img src="20241122_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_064.JPG" target="_blank"><img src="20241122_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241122_065.JPG" target="_blank"><img src="20241122_065.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
