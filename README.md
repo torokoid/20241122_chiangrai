@@ -252,9 +252,8 @@ p.note { display: none; }
 <h2><span class="yellow">一般道の道幅はかなり広めでした！</span></h2>
 <a href="20241122_061.JPG" target="_blank"><img src="20241122_061.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">
-<a href="https://youtu.be/_4CNkv9lX1g" target="_blank">タイ辺境部では密入国者取り締まりの検問所がありました〜</a>
-</span></h2>
+<h2><span class="yellow">タイ辺境部では密入国者取り締まりの検問所がありました〜</span></h2>
+<a href="https://youtu.be/_4CNkv9lX1g" target="_blank"><img src="20241122_002.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">セブンイレブンの価格はバンコクと同じですね〜</span></h2>
 <a href="20241122_062.JPG" target="_blank"><img src="20241122_062.JPG" alt="サンプル画像" width="900" /></a>
