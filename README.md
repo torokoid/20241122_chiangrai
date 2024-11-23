@@ -257,13 +257,7 @@ p.note { display: none; }
 
 <br><br>
 
-<h2><span class="yellow">
-<a href="https://www.seaconsquare.com" target="_blank">Seacon SquareのHPありますね！文字のクリックで飛びます</a>
-</span></h2>
 
-<h2><span class="yellow">
-<a href="https://www.bellmall.co.jp" target="_blank">ベルモールもHPありますけどね〜</a>
-</span></h2>
 
 
 
