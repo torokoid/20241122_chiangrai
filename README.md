@@ -205,6 +205,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">映画で見るような髪型のお姉様、お連れの男性もスキンヘッドですね〜</span></h2>
 <a href="20241122_039.JPG" target="_blank"><img src="20241122_039.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">白人女性もガン見でした！</span></h2>
 <a href="20241122_040.JPG" target="_blank"><img src="20241122_040.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">今回の便はこの機体！</span></h2>
@@ -252,7 +254,7 @@ p.note { display: none; }
 <h2><span class="yellow">一般道の道幅はかなり広めでした！</span></h2>
 <a href="20241122_061.JPG" target="_blank"><img src="20241122_061.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">タイ辺境部では密入国者取り締まりの検問所がありました〜</span></h2>
+<h2><span class="yellow">タイ辺境部では密入国者取り締まりの検問所がありました〜画像のクリックで動画再生します</span></h2>
 <a href="https://youtu.be/_4CNkv9lX1g" target="_blank"><img src="20241122_002.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">セブンイレブンの価格はバンコクと同じですね〜</span></h2>
