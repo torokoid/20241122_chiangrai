@@ -199,6 +199,8 @@ p.note { display: none; }
 <a href="20241122_035.JPG" target="_blank"><img src="20241122_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241122_036.JPG" target="_blank"><img src="20241122_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241122_037.JPG" target="_blank"><img src="20241122_037.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">待合室ではVRゴーグルして暇つぶし！</span></h2>
 <a href="20241122_038.JPG" target="_blank"><img src="20241122_038.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">映画で見るような髪型のお姉様、お連れの男性もスキンヘッドですね〜</span></h2>
