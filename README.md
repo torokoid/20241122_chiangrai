@@ -167,7 +167,7 @@ p.note { display: none; }
 <h2><span class="yellow">高速上で渋滞に遭遇！</span></h2>
 <a href="20241122_018.JPG" target="_blank"><img src="20241122_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">スマホで写真撮ってLINEで仲間と情報共有しました<br>運転中にスマホ操作するドライバーが多数派ですね〜</span></h2>
+<h2><span class="yellow">スマホで写真撮ってLINEで仲間と情報共有しました<br>バンコクは運転中にスマホ操作するドライバーが多数派ですね〜</span></h2>
 <a href="20241122_019.JPG" target="_blank"><img src="20241122_019.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">他の車からもすかさず、渋滞情報が共有されますね〜</span></h2>
