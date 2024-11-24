@@ -125,7 +125,7 @@ p.note { display: none; }
 <!--上段にパンクズリストを入れる時の例-->
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">11月21日バンコク市内をうろうろ</a>><!--<a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>>--><a>11月22日バンコク市内をうろついてからChaing Raiに移動</a></p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">11月21日バンコク市内をうろうろ</a>><!--<a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>>--><a>11月22日バンコク市内をうろついてからChaing Raiに移動</a>><a href="https://torokoid.github.io/20241123_chiangrai/" target="_blank">11月23日、チェンライ2日目はスーパーでお買い物、午後は親戚のお葬式</a></p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
